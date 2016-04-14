@@ -1,0 +1,6 @@
+#define IDB_MAIN 1 
+IDB_MAIN BITMAP "background.bmp"
+#define IDB_MARIO 2
+IDB_MARIO BITMAP "mario.bmp"
+#define IDB_MASHROOM 3
+IDB_MASHROOM BITMAP "mashroom.bmp"

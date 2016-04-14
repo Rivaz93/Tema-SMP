@@ -1,0 +1,6 @@
+﻿  Assembling main.asm...
+main.asm(84): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(84): warning A6004: procedure argument or local not referenced : CmdLine
+main.asm(84): warning A6004: procedure argument or local not referenced : CmdShow
+  Project SMP.vcxproj -> D:\asm\Proiect SMP\Project SMP\Debug\Project SMP.exe
+  Project SMP.vcxproj -> D:\asm\Proiect SMP\Project SMP\Debug\Project SMP.pdb (Partial PDB)
